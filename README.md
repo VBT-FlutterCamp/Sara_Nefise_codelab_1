@@ -1,4 +1,4 @@
-# hw_app
+# Codelab 1
 
 A new Flutter project.
 
